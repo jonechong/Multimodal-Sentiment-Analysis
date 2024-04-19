@@ -1,0 +1,182 @@
+{
+    "1": {
+        "Train Loss": "0.0072",
+        "Train Accuracy": "0.5531",
+        "Val Loss": "0.0063",
+        "Val Accuracy": "0.6408"
+    },
+    "2": {
+        "Train Loss": "0.0063",
+        "Train Accuracy": "0.6378",
+        "Val Loss": "0.0063",
+        "Val Accuracy": "0.6272"
+    },
+    "3": {
+        "Train Loss": "0.0062",
+        "Train Accuracy": "0.6427",
+        "Val Loss": "0.0061",
+        "Val Accuracy": "0.6486"
+    },
+    "4": {
+        "Train Loss": "0.0060",
+        "Train Accuracy": "0.6566",
+        "Val Loss": "0.0061",
+        "Val Accuracy": "0.6344"
+    },
+    "5": {
+        "Train Loss": "0.0059",
+        "Train Accuracy": "0.6663",
+        "Val Loss": "0.0062",
+        "Val Accuracy": "0.6393"
+    },
+    "6": {
+        "Train Loss": "0.0058",
+        "Train Accuracy": "0.6745",
+        "Val Loss": "0.0059",
+        "Val Accuracy": "0.6536"
+    },
+    "7": {
+        "Train Loss": "0.0056",
+        "Train Accuracy": "0.6844",
+        "Val Loss": "0.0060",
+        "Val Accuracy": "0.6600"
+    },
+    "8": {
+        "Train Loss": "0.0055",
+        "Train Accuracy": "0.6944",
+        "Val Loss": "0.0060",
+        "Val Accuracy": "0.6600"
+    },
+    "9": {
+        "Train Loss": "0.0054",
+        "Train Accuracy": "0.7030",
+        "Val Loss": "0.0058",
+        "Val Accuracy": "0.6636"
+    },
+    "10": {
+        "Train Loss": "0.0053",
+        "Train Accuracy": "0.7138",
+        "Val Loss": "0.0060",
+        "Val Accuracy": "0.6372"
+    },
+    "11": {
+        "Train Loss": "0.0051",
+        "Train Accuracy": "0.7162",
+        "Val Loss": "0.0061",
+        "Val Accuracy": "0.6493"
+    },
+    "12": {
+        "Train Loss": "0.0051",
+        "Train Accuracy": "0.7195",
+        "Val Loss": "0.0061",
+        "Val Accuracy": "0.6572"
+    },
+    "13": {
+        "Train Loss": "0.0048",
+        "Train Accuracy": "0.7337",
+        "Val Loss": "0.0063",
+        "Val Accuracy": "0.6458"
+    },
+    "14": {
+        "Train Loss": "0.0048",
+        "Train Accuracy": "0.7433",
+        "Val Loss": "0.0063",
+        "Val Accuracy": "0.6408"
+    },
+    "15": {
+        "Train Loss": "0.0046",
+        "Train Accuracy": "0.7519",
+        "Val Loss": "0.0061",
+        "Val Accuracy": "0.6500"
+    },
+    "16": {
+        "Train Loss": "0.0045",
+        "Train Accuracy": "0.7574",
+        "Val Loss": "0.0062",
+        "Val Accuracy": "0.6507"
+    },
+    "17": {
+        "Train Loss": "0.0044",
+        "Train Accuracy": "0.7604",
+        "Val Loss": "0.0063",
+        "Val Accuracy": "0.6529"
+    },
+    "18": {
+        "Train Loss": "0.0042",
+        "Train Accuracy": "0.7749",
+        "Val Loss": "0.0066",
+        "Val Accuracy": "0.6358"
+    },
+    "19": {
+        "Train Loss": "0.0040",
+        "Train Accuracy": "0.7891",
+        "Val Loss": "0.0065",
+        "Val Accuracy": "0.6472"
+    },
+    "20": {
+        "Train Loss": "0.0040",
+        "Train Accuracy": "0.7830",
+        "Val Loss": "0.0066",
+        "Val Accuracy": "0.6636"
+    },
+    "21": {
+        "Train Loss": "0.0038",
+        "Train Accuracy": "0.8008",
+        "Val Loss": "0.0067",
+        "Val Accuracy": "0.6458"
+    },
+    "22": {
+        "Train Loss": "0.0038",
+        "Train Accuracy": "0.8045",
+        "Val Loss": "0.0068",
+        "Val Accuracy": "0.6536"
+    },
+    "23": {
+        "Train Loss": "0.0036",
+        "Train Accuracy": "0.8101",
+        "Val Loss": "0.0071",
+        "Val Accuracy": "0.6393"
+    },
+    "24": {
+        "Train Loss": "0.0035",
+        "Train Accuracy": "0.8173",
+        "Val Loss": "0.0077",
+        "Val Accuracy": "0.6408"
+    },
+    "25": {
+        "Train Loss": "0.0034",
+        "Train Accuracy": "0.8171",
+        "Val Loss": "0.0076",
+        "Val Accuracy": "0.6294"
+    },
+    "26": {
+        "Train Loss": "0.0032",
+        "Train Accuracy": "0.8288",
+        "Val Loss": "0.0076",
+        "Val Accuracy": "0.6386"
+    },
+    "27": {
+        "Train Loss": "0.0032",
+        "Train Accuracy": "0.8313",
+        "Val Loss": "0.0081",
+        "Val Accuracy": "0.6401"
+    },
+    "28": {
+        "Train Loss": "0.0029",
+        "Train Accuracy": "0.8461",
+        "Val Loss": "0.0079",
+        "Val Accuracy": "0.6429"
+    },
+    "29": {
+        "Train Loss": "0.0029",
+        "Train Accuracy": "0.8530",
+        "Val Loss": "0.0083",
+        "Val Accuracy": "0.6358"
+    },
+    "30": {
+        "Train Loss": "0.0027",
+        "Train Accuracy": "0.8588",
+        "Val Loss": "0.0085",
+        "Val Accuracy": "0.6358"
+    }
+}
