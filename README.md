@@ -13,3 +13,8 @@ Tommy Goh, 1005431
 
 ## Notes
 Due to the model's size, it is not feasible to upload the model weights on GitHub. If these are required, feel free to contact us via the school email.
+
+## Instructions
+1. Change directory to software/cds_app
+2. Run `streamlit run project.py`
+3. Enjoy!
