@@ -1,5 +1,6 @@
-50.038 CDS Project
+# 50.038 CDS Project
 
+## Members
 Mohammed Ansar 1006015
 
 Ryner Tan, 1005982
@@ -10,5 +11,5 @@ Jone Chong, 1006338
 
 Tommy Goh, 1005431
 
-
+## Notes
 Due to the model's size, it is not feasible to upload the model weights on GitHub. If these are required, feel free to contact us via the school email.
